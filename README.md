@@ -18,10 +18,7 @@ import java.security.PublicKey;
 
 import javax.crypto.Cipher;
 
-/**
- * @author JavaDigest
- * 
- */
+
 public class EncryptionUtil {
 
   /**
